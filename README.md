@@ -3,6 +3,7 @@ This project is a Python-based game collection application built using the tkint
 
 Usage
 Once the application is running, you will see the main menu with three game options. Click on any game to start playing.
+
 ![image](https://github.com/purvashetye6/Game-Collection/assets/103199840/5d4c84e8-cfe3-4d87-9e18-c993bb014924)
 ![image](https://github.com/purvashetye6/Game-Collection/assets/103199840/28c26e24-9fb6-4385-932a-fbbfc057b2fa)
 
